@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Stelios Triantafyllou"
 title_separator          : "-"
 name                     : &name "Stelios Triantafyllou"
 description              : &description "PhD Student in Computer Science"
