@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
- Pre-prints
+Pre-prints
 ------------
 - [Agent-Specific Effects](https://drive.google.com/file/d/1qV5VxjUQNtfwxDcAZfZH3x28By8kPz3F/view?usp=drive_link) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
 
- Conference proceedings
+Conference proceedings
 ------------
 - [Towards Computationally Efficient Responsibility Attribution in Decentralized Partially Observable MDPs](https://dl.acm.org/doi/abs/10.5555/3545946.3598628) <br>**S. Triantafyllou**, G. Radanovic <br> *22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS'23), 2023* <br> [[poster](https://drive.google.com/file/d/16n7KNPuuy15pybHyIff0owD2OU5AhtUL/view?usp=sharing)] [[code](https://github.com/stelios30/aamas23-responsibility-attribution-mcts.git)]
 
