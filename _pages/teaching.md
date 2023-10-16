@@ -15,5 +15,5 @@ Graduate Teaching Assistant
 
 Undergraduate Teaching Assistant
 ------------
-- *Algorithmic Data Science* <br> Graduate course, National Technical University of Athens, SS 2019
+- [*Algorithmic Data Science*](https://courses.corelab.ntua.gr/course/view.php?id=45) <br> Graduate course, National Technical University of Athens, SS 2019
 - [*Algorithms and Complexity*](https://courses.corelab.ntua.gr/course/view.php?id=32) <br> Undergraduate course, National Technical University of Athens, WS 2018
