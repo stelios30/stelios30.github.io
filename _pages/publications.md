@@ -7,7 +7,7 @@ author_profile: true
 
 Pre-prints
 ------------
-- [Agent-Specific Effects](https://drive.google.com/file/d/1qV5VxjUQNtfwxDcAZfZH3x28By8kPz3F/view?usp=drive_link) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
+- [Agent-Specific Effects](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
 
 Conference proceedings
 ------------
