@@ -7,7 +7,7 @@ author_profile: true
 
 Pre-prints
 ------------
-- [Agent-Specific Effects](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
+- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
 
 Conference proceedings
 ------------
