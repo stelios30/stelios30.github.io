@@ -7,6 +7,8 @@ author_profile: true
 
 Pre-prints
 ------------
+- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838) <br> B. Rank, **S. Triantafyllou**, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/bsen/performative-rl-gradually-shifting-envs)]
+
 - [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> Under review <br> [[code](https://github.com/stelios30/agent-specific-effects.git)] 
 
 Conference proceedings
