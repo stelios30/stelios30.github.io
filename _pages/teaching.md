@@ -8,6 +8,7 @@ author_profile: true
 Tutor
 ------------
 - [Accountable AI Through the Lens of Causality](https://accountable-ai-s2023.mpi-sws.org/) <br> Seminar, Saarland University, SS 2023
+- [Causal Inference for Decision Making](https://drive.google.com/file/d/1nYo333__YGwN9wQgSVSgJ4c_ncq33DI0/view?usp=sharing) <br> Lightning Tutorial, MPI-SWS, Jan 2024
 
 Graduate Teaching Assistant
 ------------
