@@ -21,6 +21,10 @@ Conference proceedings
 
 - [On Blame Attribution for Accountable Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2107.11927) <br> **S. Triantafyllou**, A. Singla, G. Radanovic <br> 35th Conference on Neural Information Processing Systems (NeurIPS'21), 2021 <br> [[poster](https://drive.google.com/file/d/1IMPSrYlgHMiRgcbLo9AXN_pKqJf4xinE/view?usp=sharing)]
 
+Workshop papers
+------------
+Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making <br> **S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br> 9th Causal Inference Workshop at UAI, 2024
+
 Diploma thesis
 ------------
 - [Game-Theoretical Models for Orienteering Problems](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/17391) <br> Supervised by Prof. Dimitris Fotakis
