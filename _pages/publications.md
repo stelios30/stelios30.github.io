@@ -23,8 +23,8 @@ Conference proceedings
 
 Workshop papers
 ------------
-- Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making <br> **S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br> 9th Causal Inference Workshop at UAI, 2024 <br>
-[[Extended Abstract](http://stelios30.github.io/files/CausalUAI24.pdf)]
+- [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://openreview.net/forum?id=kcKykuxY3c) <br> **S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br> 9th Causal Inference Workshop at UAI, 2024 <br>
+[[poster](http://stelios30.github.io/files/UAI_causal_poster.pdf)]
 
 Diploma thesis
 ------------
