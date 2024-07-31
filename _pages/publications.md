@@ -7,7 +7,7 @@ author_profile: true
 
 Conference proceedings
 ------------
-- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> 41st International Conference on Machine Learning (ICML'24), 2024 (to appear) <br> [[code](https://github.com/stelios30/agent-specific-effects.git)]
+- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> 41st International Conference on Machine Learning (ICML'24), 2024 (to appear) <br> [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)]
 
 - [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838) <br> B. Rank, **S. Triantafyllou**, D. Mandal, G. Radanovic <br> 40th Conference on Uncertainty in Artificial Intelligence (UAI'24), 2024 (to appear) <br> [[code](https://github.com/bsen/performative-rl-gradually-shifting-envs)]
 
