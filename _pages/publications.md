@@ -7,9 +7,9 @@ author_profile: true
 
 Conference proceedings
 ------------
-- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> 41st International Conference on Machine Learning (ICML'24), 2024 (to appear) <br> [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)]
+- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> 41st International Conference on Machine Learning (ICML'24), 2024 <br> [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)]
 
-- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838) <br> B. Rank, **S. Triantafyllou**, D. Mandal, G. Radanovic <br> 40th Conference on Uncertainty in Artificial Intelligence (UAI'24), 2024 (to appear) <br> [[code](https://github.com/bsen/performative-rl-gradually-shifting-envs)]
+- [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838) <br> B. Rank, **S. Triantafyllou**, D. Mandal, G. Radanovic <br> 40th Conference on Uncertainty in Artificial Intelligence (UAI'24), 2024 <br> [[code](https://github.com/bsen/performative-rl-gradually-shifting-envs)]
 
 - [Towards Computationally Efficient Responsibility Attribution in Decentralized Partially Observable MDPs](https://dl.acm.org/doi/abs/10.5555/3545946.3598628) <br>**S. Triantafyllou**, G. Radanovic <br> 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS'23), 2023 <br> [[poster](https://drive.google.com/file/d/16n7KNPuuy15pybHyIff0owD2OU5AhtUL/view?usp=sharing)] [[code](https://github.com/stelios30/aamas23-responsibility-attribution-mcts.git)]
 
