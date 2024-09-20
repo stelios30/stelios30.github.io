@@ -12,6 +12,7 @@ Tutor
 
 Graduate Teaching Assistant
 ------------
+- [Generative AI](https://generative-ai.mpi-sws.org/course-genai-w24/index.html) <br> Advanced Course, Saarland University, WS 2024
 - [Multi-Agent Reinforcement Learning](https://multiagent-rl.mpi-sws.org/) <br> Seminar, Saarland University, WS 2020
 
 Undergraduate Teaching Assistant
