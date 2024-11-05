@@ -7,11 +7,19 @@ author_profile: true
 
 Preprints
 ------------
-- [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2410.12539) <br>**S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br>  	arXiv:2410.12539, 2024 <br> [[code](https://github.com/stelios30/cf-effect-decomposition)] <br> *An extended abstract has been accepted at the 9th Causal Inference Workshop at UAI'24.*
+- [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2410.12539) 
+  **S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic 
+  arXiv:2410.12539, 2024 
+  [[code](https://github.com/stelios30/cf-effect-decomposition)] 
+  - *An extended abstract has been accepted at the 9th Causal Inference Workshop at UAI'24.*
 
 Conference proceedings
 ------------
-- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>**S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br> 41st International Conference on Machine Learning (ICML'24), 2024 <br> [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)] <br> *Invited Talk at the 6th International Conference on Distributed Artificial Intelligence (DAI'24).*
+- [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334)
+  **S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic 
+  41st International Conference on Machine Learning (ICML'24), 2024
+  [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)]
+  - *Invited Talk at the 6th International Conference on Distributed Artificial Intelligence (DAI'24).*
 
 - [Performative Reinforcement Learning in Gradually Shifting Environments](https://arxiv.org/abs/2402.09838) <br> B. Rank, **S. Triantafyllou**, D. Mandal, G. Radanovic <br> 40th Conference on Uncertainty in Artificial Intelligence (UAI'24), 2024 <br> [[code](https://github.com/bsen/performative-rl-gradually-shifting-envs)]
 
