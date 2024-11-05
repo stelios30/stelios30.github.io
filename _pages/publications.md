@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints
 ------------
-- [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2410.12539) <br>**S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br>  	arXiv:2410.12539, 2024 <br> [[code](https://github.com/stelios30/cf-effect-decomposition)] <br> *An extended abstract of this work was accepted at the 9th Causal Inference Workshop at UAI'24*
+- [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2410.12539) <br>**S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br>  	arXiv:2410.12539, 2024 <br> [[code](https://github.com/stelios30/cf-effect-decomposition)] <br> *An extended abstract of this work has been accepted at the 9th Causal Inference Workshop at UAI'24*
 
 Conference proceedings
 ------------
