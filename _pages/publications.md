@@ -9,7 +9,7 @@ Conference proceedings
 ------------
 - [Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making](https://arxiv.org/abs/2410.12539) <br>
   **S. Triantafyllou**, A. Sukovic, Y. Zolfimoselo, G. Radanovic <br>
-  arXiv:2410.12539, 2024 <br>
+  42nd International Conference on Machine Learning (ICML'25), 2025 <br>
   [[code](https://github.com/stelios30/cf-effect-decomposition)] 
   - *An extended abstract has been accepted at the 9th Causal Inference Workshop at UAI'24.*
 
