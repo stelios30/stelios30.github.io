@@ -17,7 +17,7 @@ Conference proceedings
 ------------
 - [Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs](https://arxiv.org/abs/2310.11334) <br>
   **S. Triantafyllou**, A. Sukovic, D. Mandal, G. Radanovic <br>
-  41st International Conference on Machine Learning (ICML'24), 2024 <br>
+  42nd International Conference on Machine Learning (ICML'25), 2025 <br>
   [[poster](http://stelios30.github.io/files/poster_icml.pdf)] [[code](https://github.com/stelios30/agent-specific-effects.git)] [[<3](https://x.com/yudapearl/status/1808214758505734308)]
   - *Invited Talk at the 6th International Conference on Distributed Artificial Intelligence (DAI'24).*
 
