@@ -16,9 +16,9 @@ Before embarking on my doctoral journey, I obtained my diploma in Electrical and
 
 <dl>
   <dt><strong>September 2025</strong></dt>
-  <dd>Completed a 3-month internship at Booking.com in Amsterdam.</dd>
+  <dd>Completed a 3-month research <b>internship</b> at Booking.com in Amsterdam.</dd>
 
   <dt><strong>July 2025</strong></dt>
-  <dd>Attended ICML’25 in Vancouver and presented my work on 
+  <dd>Attended ICML’25 in Vancouver and presented my <b>paper</b> on 
   <a href="https://icml.cc/virtual/2025/poster/44311">Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making</a>.</dd>
 </dl>
